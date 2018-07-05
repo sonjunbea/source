@@ -77,7 +77,7 @@ namespace admin.gne.store
 				{
 					getcallbranchlist();
 					return;
-				}
+				} 
 
 				if (mode.Equals("synccallbranch"))
 				{
