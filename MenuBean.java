@@ -21,7 +21,7 @@ public class MenuBean extends BaseBean{
 	public MenuBean() {
 		// TODO Auto-generated constructor stub
 	}
-	
+
 	@Override
 	public String customJSON() {
 		String strResult = null;
