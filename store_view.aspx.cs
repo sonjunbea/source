@@ -8,7 +8,7 @@ using System.Web.UI.WebControls;
 using System.Web.UI.HtmlControls;
 using System.Collections;
 using System.Data;
-using Biz.gne;
+using Biz.gne; 
 
 namespace admin.gne.store
 {
