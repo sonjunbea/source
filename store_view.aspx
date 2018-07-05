@@ -4,7 +4,7 @@
 	<!-- container -->
 	<div id="container">
 		<!-- contents -->
-		<section id="contents">
+		<section id="contents"> 
 			<h1 id="page_tit">매장관리</h1><!-- 해당 텍스트로 gnb와 매칭 시켜서 active 시킵니다 -->
 			<article class="inner">
 				<table class="table left_tbl form_tbl mt20">
