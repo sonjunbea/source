@@ -26,7 +26,7 @@ Papajohns.Basket.prototype ={
 				btn_init : this.$el.find('.btn_init:first')
 				
 			};
-		
+		 
 			
 			this.api = "/get.do";
 			this.tpl ={
